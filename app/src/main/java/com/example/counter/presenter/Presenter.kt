@@ -30,7 +30,7 @@ class Presenter {
         if (model.count == 10) {
             view.showToast()
         }else if(model.count == 15) {
-            view.painGreen()
+            view.paintGreen()
         }
     }
 
